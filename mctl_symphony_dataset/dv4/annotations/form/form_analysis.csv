@@ -1,0 +1,25 @@
+phrase onset,phrase offset,section,theme
+0,37,Introduction,Introduction
+36,68,Exposition,1st
+68,100,Exposition,1st
+100,133,Exposition,1st
+132,173,Exposition,1st
+172,196,Exposition,1st
+196,213,Exposition,1st
+212,236,Exposition,1st
+236,269,Exposition,Transition
+268,300,Exposition,2nd
+300,332,Exposition,2nd
+332,365,Exposition,2nd
+364,508,Exposition,Codetta
+508,613,Development,Development
+612,788,Development,Development
+788,829,Recapitulation,1st
+828,905,Recapitulation,Transition
+904,936,Recapitulation,2nd
+936,968,Recapitulation,2nd
+968,1001,Recapitulation,2nd
+1000,1096,Recapitulation,Codetta
+1096,1153,Coda,Coda
+1152,1193,Coda,Coda
+1192,1392,Coda,Coda

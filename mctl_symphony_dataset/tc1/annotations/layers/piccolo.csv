@@ -1,0 +1,5 @@
+onset,offset,role,instrument
+188,191,mel,piccolo
+260,300,mel+harm,piccolo
+991,1086,mel+harm,piccolo
+1086,1096,rthythm,piccolo

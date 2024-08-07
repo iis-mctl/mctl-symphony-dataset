@@ -1,0 +1,28 @@
+phrase onset,phrase offset,section,theme
+0,8,intro,intro
+8,75,theme,A
+75,95,theme,transition
+95,119,theme,B
+119,114,theme,B
+114,150,theme,transition
+150,166,variation I,A'
+166,188,variation I,A'
+188,217,variation I,A'
+217,237.5,variation I,transition
+237.5,261.5,variation I,B'
+261.5,286,variation I,B'
+286,292,variation I,transition
+292,344,interlude,A
+344,356,interlude,A
+356,380,variation II,A''
+380,412,variation II,A''
+412,449,variation II,A''
+449,486.5,variation II,A''
+486.5,511,variation II,C
+511,547.5,variation II,A'''
+547.5,582,variation II,C
+582,596,variation II,A'''
+596,645.5,coda,A'''
+645.5,671,coda,A'''
+671,686,coda,coda
+686,709.5,coda,coda

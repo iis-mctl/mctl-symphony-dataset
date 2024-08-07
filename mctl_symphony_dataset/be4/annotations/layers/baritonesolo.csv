@@ -1,0 +1,17 @@
+onset,offset,role
+762,777,mel
+784,801,mel
+804,822,mel
+827,903,mel
+951,1015,mel+rhythm
+1061,1079,mel
+1079,1087,mel+rhythm
+1087,1127,mel
+3020,3032,mel
+3068,3080,mel
+3100,3132,mel+rhythm
+3132,3159,rhythm
+3274,3284,rhythm
+3284,3292,mel
+3292,3308,mel+harm
+3308,3324,mel

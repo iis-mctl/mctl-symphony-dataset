@@ -1,0 +1,16 @@
+#,phrase onset,phrase offset,section,theme
+1,0,12,Exposition,1st
+2,12,54,Exposition,1st
+3,54,69,Exposition,Transition
+4,69,108,Exposition,Transition
+5,108,137,Exposition,2nd
+6,137,161,Exposition,2nd
+7,161,185,Exposition,2nd
+8,185,243,Exposition,2nd
+9,243,264,Exposition,Transition
+10,264,306,Recapitulation,1st
+11,306,321,Recapitulation,Transition
+12,321,375.5,Recapitulation,Transition
+13,375,409,Recapitulation,Closing part
+14,409,438,Recapitulation,Closing part
+15,438,513,Coda,Coda
