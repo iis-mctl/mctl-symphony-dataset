@@ -45,13 +45,19 @@ Detailed note-level data for each instrument:
 
 ### **2. Temporal Attributes**
 
-This section outlines the dataset's temporal components, crucial for understanding the composition's structure.
+This section outlines the dataset's temporal components.
 
 ### Measure Number
-Tracks onset times, measure numbers, and current time signatures, essential for analyzing the progression of musical events.
+Calculated measure numbers for each piece.
 
 ### Time Signature
 Lists onset times, measure numbers, and their corresponding time signatures, indicating where changes occur to reflect structural shifts.
+
+| Column           | Description                                               |
+|------------------|-----------------------------------------------------------|
+| onset            | The onset (measured in beats) of each note.               |
+| measure          | `-1` for incomplete measure.             |
+| time_signature    | Indicates the number of crotchets (quarter notes) in one measure. For example, 2 for a 2/4 time signature.                                       |
 
 ### Downbeat
 Identifies the first beat of each measure.
