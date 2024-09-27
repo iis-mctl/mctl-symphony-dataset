@@ -9,7 +9,7 @@ We compile over 13,000 annotations in four symphonies by Mozart, Beethoven, Tcha
 - Annotations: .csv files in `<piece_name>/Annotations`
 - Each piece contains annotations in five categories:
     - Note Events
-    - Downbeats
+    - Temporal Attributes
     - Note Played
     - Musical Form
     - Orchestral Layers
@@ -43,9 +43,18 @@ Detailed note-level data for each instrument:
 | instrument       | Name of the instrument in the orchestra.                  |
 
 
-### **2. Downbeat**
+### **2. Temporal Attributes **
 
-The first beat of the measure
+This section outlines the dataset's temporal components, crucial for understanding the composition's structure.
+
+### Measure Number
+Tracks onset times, measure numbers, and current time signatures, essential for analyzing the progression of musical events.
+
+### Time Signature
+Lists onset times, measure numbers, and their corresponding time signatures, indicating where changes occur to reflect structural shifts.
+
+### Downbeat
+Identifies the first beat of each measure.
 
 ### **3. Note Played**
 
