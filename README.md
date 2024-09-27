@@ -57,7 +57,7 @@ Lists onset times, measure numbers, and their corresponding time signatures, ind
 |------------------|-----------------------------------------------------------|
 | onset            | The onset (measured in beats) of each note.               |
 | measure          | `-1` for incomplete measure.             |
-| time_signature    | Indicates the number of crotchets (quarter notes) in one measure. For example, 2 for a 2/4 time signature.                                       |
+| time signature    | Indicates the number of crotchets (quarter notes) in one measure. For example, 2 for a 2/4 time signature.                                       |
 
 ### Downbeat
 Identifies the first beat of each measure.
