@@ -1,0 +1,8 @@
+onset,offset,role
+0,16.5,harm
+90,98.0,mel
+98,102.5,harm
+162,178.5,mel
+378,381.0,harm
+381,389.5,mel
+452,462.5,harm

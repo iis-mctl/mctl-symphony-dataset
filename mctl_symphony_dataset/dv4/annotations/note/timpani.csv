@@ -1,4 +1,4 @@
-onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure,instrument
+onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure, instrument
 32.0,36.0,59,B3,4.0,0,9,1.0,timpani
 36.0,37.0,52,E3,1.0,0,10,1.0,timpani
 40.0,41.0,52,E3,1.0,0,11,1.0,timpani
@@ -97,7 +97,6 @@ onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure,instr
 269.5,270.0,50,D3,0.5,0,68,2.5,timpani
 285.0,285.5,50,D3,0.5,0,72,2.0,timpani
 285.5,286.0,50,D3,0.5,0,72,2.5,timpani
-340.0,341.0,62,D4,1.0,0,86,1.0,timpani
 360.0,364.0,50,D3,4.0,0,91,1.0,timpani
 364.0,364.5,55,G3,0.5,0,92,1.0,timpani
 364.5,365.0,55,G3,0.5,0,92,1.5,timpani
@@ -152,11 +151,6 @@ onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure,instr
 416.0,417.0,55,G3,1.0,0,105,1.0,timpani
 417.0,418.0,55,G3,1.0,0,105,2.0,timpani
 418.0,419.0,55,G3,1.0,0,105,3.0,timpani
-420.0,421.0,74,D5,1.0,0,106,1.0,timpani
-440.0,441.0,74,D5,1.0,0,111,1.0,timpani
-456.0,457.0,74,D5,1.0,0,115,1.0,timpani
-468.0,469.0,74,D5,1.0,0,118,1.0,timpani
-484.0,485.0,74,D5,1.0,0,122,1.0,timpani
 508.0,512.0,55,G3,4.0,0,128,1.0,timpani
 512.0,516.0,55,G3,4.0,0,129,1.0,timpani
 516.0,520.0,55,G3,4.0,0,130,1.0,timpani
@@ -169,10 +163,6 @@ onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure,instr
 544.0,548.0,55,G3,4.0,0,137,1.0,timpani
 548.0,552.0,55,G3,4.0,0,138,1.0,timpani
 552.0,556.0,43,G2,4.0,0,139,1.0,timpani
-576.0,577.0,74,D5,1.0,0,145,1.0,timpani
-592.0,593.0,74,D5,1.0,0,149,1.0,timpani
-608.0,609.0,74,D5,1.0,0,153,1.0,timpani
-624.0,625.0,74,D5,1.0,0,157,1.0,timpani
 660.0,664.0,59,B3,4.0,0,166,1.0,timpani
 664.0,668.0,59,B3,4.0,0,167,1.0,timpani
 668.0,669.0,59,B3,1.0,0,168,1.0,timpani
@@ -180,9 +170,6 @@ onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure,instr
 704.0,708.0,51,E-3,4.0,0,177,1.0,timpani
 724.0,728.0,51,E-3,4.0,0,182,1.0,timpani
 728.0,732.0,51,E-3,4.0,0,183,1.0,timpani
-744.0,745.0,52,E3,1.0,0,187,1.0,timpani
-764.0,765.0,52,E3,1.0,0,192,1.0,timpani
-784.0,785.0,52,E3,1.0,0,197,1.0,timpani
 828.0,832.0,59,B3,4.0,0,208,1.0,timpani
 832.0,836.0,59,B3,4.0,0,209,1.0,timpani
 836.0,837.0,59,B3,1.0,0,210,1.0,timpani
@@ -201,10 +188,6 @@ onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure,instr
 868.0,872.0,59,B3,4.0,0,218,1.0,timpani
 872.0,876.0,59,B3,4.0,0,219,1.0,timpani
 876.0,877.0,59,B3,1.0,0,220,1.0,timpani
-904.0,905.0,57,A3,1.0,0,227,1.0,timpani
-928.0,929.0,57,A3,1.0,0,233,1.0,timpani
-948.0,949.0,57,A3,1.0,0,238,1.0,timpani
-968.0,969.0,57,A3,1.0,0,243,1.0,timpani
 992.0,996.0,59,B3,4.0,0,249,1.0,timpani
 996.0,1000.0,59,B3,4.0,0,250,1.0,timpani
 1000.0,1004.0,52,E3,4.0,0,251,1.0,timpani
@@ -216,9 +199,6 @@ onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure,instr
 1024.0,1028.0,52,E3,4.0,0,257,1.0,timpani
 1028.0,1032.0,52,E3,4.0,0,258,1.0,timpani
 1032.0,1033.0,52,E3,1.0,0,259,1.0,timpani
-1036.0,1037.0,57,A3,1.0,0,260,1.0,timpani
-1048.0,1049.0,57,A3,1.0,0,263,1.0,timpani
-1060.0,1061.0,57,A3,1.0,0,266,1.0,timpani
 1080.0,1084.0,52,E3,4.0,0,271,1.0,timpani
 1084.0,1088.0,52,E3,4.0,0,272,1.0,timpani
 1088.0,1092.0,52,E3,4.0,0,273,1.0,timpani
@@ -232,7 +212,6 @@ onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure,instr
 1132.0,1136.0,59,B3,4.0,0,284,1.0,timpani
 1136.0,1140.0,59,B3,4.0,0,285,1.0,timpani
 1140.0,1144.0,59,B3,4.0,0,286,1.0,timpani
-1148.0,1149.0,57,A3,1.0,0,288,1.0,timpani
 1176.0,1177.0,59,B3,1.0,0,295,1.0,timpani
 1177.0,1178.0,52,E3,1.0,0,295,2.0,timpani
 1178.0,1179.0,52,E3,1.0,0,295,3.0,timpani
@@ -267,10 +246,9 @@ onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure,instr
 1236.0,1240.0,52,E3,4.0,0,310,1.0,timpani
 1240.0,1244.0,52,E3,4.0,0,311,1.0,timpani
 1244.0,1248.0,52,E3,4.0,0,312,1.0,timpani
-1252.0,1253.0,57,A3,1.0,0,314,1.0,timpani
-1279.0,1279.3333333333333,59,B3,1/3,0,320,4.0,timpani
-3838/3,3839/3,59,B3,1/3,0,320,13/3,timpani
-3839/3,1280,59,B3,1/3,0,320,14/3,timpani
+1279.0,1279.3333333333333,59,B3,0.3333333333333333,0,320,4.0,timpani
+1279.3333333333333,1279.6666666666663,59,B3,0.3333333333333333,0,320,4.333333333333333,timpani
+1279.6666666666667,1280.0,59,B3,0.3333333333333333,0,320,4.666666666666667,timpani
 1280.0,1280.5,52,E3,0.5,0,321,1.0,timpani
 1280.5,1281.0,52,E3,0.5,0,321,1.5,timpani
 1282.0,1282.5,52,E3,0.5,0,321,3.0,timpani

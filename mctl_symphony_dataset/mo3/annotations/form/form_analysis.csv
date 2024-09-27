@@ -1,0 +1,17 @@
+﻿phrase onset,phrase offset,section,theme
+0,45,minuet,minuet 1st
+48,96,minuet,minuet 1st
+96,129,minuet,minuet 2nd
+129,201,minuet,minuet 1st
+201,225,minuet,minuet 1st
+225,258,minuet,minuet 2nd
+258,330,minuet,minuet 1st
+330,354,minuet,minuet 1st
+354,378,trio,trio 1st
+378,402,trio,trio 1st
+402,423,trio,trio 2nd
+423,438,trio,transition
+438,462,trio,trio 1st
+462,483,trio,trio 2nd
+483,498,trio,transition
+498,522,trio,trio 1st

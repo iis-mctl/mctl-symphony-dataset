@@ -1,0 +1,33 @@
+﻿phrase onset,phrase offset,section,theme
+0,4,exposition,1st
+6,10,exposition,1st
+12,30,exposition,1st
+30,37,exposition,1st
+36,52,exposition,1st
+52.5,81,exposition,transition
+81,101,exposition,2nd
+101,114,exposition,2nd
+114,120,exposition,codetta
+120,127,exposition,codetta
+132,136,exposition,1st
+138,142,exposition,1st
+144,162,exposition,1st
+162,169,exposition,1st
+168,184,exposition,1st
+184.5,213,exposition,transition
+213,233,exposition,2nd
+233,246,exposition,2nd
+246,252,exposition,codetta
+252,259,exposition,codetta
+270,296,development,modulating bridge
+296,304,development,retransition
+304,309,development,retransition
+309,321,recapitulation,1st
+321,330,recapitulation,1st
+330,348,recapitulation,transition
+348,357,recapitulation,transition
+357,377,recapitulation,2nd
+377,390,recapitulation,2nd
+390,403,recapitulation,codetta
+405,426,coda,1st
+426,433,coda,coda

@@ -1,0 +1,12 @@
+onset,offset,role
+84,101.0,harm
+178,282.5,mel
+354,358.0,mel+rhythm
+358,362.0,harm
+362,366.0,mel
+366,378.0,rhythm
+378,382.0,harm
+383,390.0,rhythm+harm
+390,394.5,harm
+448,453.5,mel
+490,499.0,harm

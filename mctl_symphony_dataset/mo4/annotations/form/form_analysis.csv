@@ -1,0 +1,50 @@
+﻿phrase onset,phrase offset,section,theme
+0,73,exposition,1st (phrase 1)
+74,138,exposition,1st (phrase 2)
+140,208,exposition,1st (fugue)
+208,252,exposition,transition
+254,290,exposition,1st (phrase 2)
+292,372,exposition,2nd (phrase 1)
+372,456,exposition,2nd (phrase 2)
+457,537,exposition,codetta 1
+538,626,exposition,codetta 2
+628,701,exposition,1st (phrase 1)
+702,766,exposition,1st (phrase 2)
+768,836,exposition,1st (fugue)
+836,880,exposition,transition
+882,918,exposition,1st (phrase 2)
+920,1000,exposition,2nd (phrase 1)
+1000,1084,exposition,2nd (phrase 2)
+1085,1165,exposition,codetta 1
+1166,1254,exposition,codetta 2
+1314,1382,development,1st (phrase 2)
+1382,1464,development,1st
+1464,1524,development,retransition
+1524,1556,recapitulation,1st (phrase 1)
+1556,1639,recapitulation,1st (phrase 1)
+1636,1672,recapitulation,transition
+1674,1710,recapitulation,1st (phrase 2)
+1712,1792,recapitulation,2nd (phrase 1)
+1792,1876,recapitulation,2nd (phrase 2)
+1876,1961,recapitulation,codetta 1
+1962,2024,recapitulation,codetta 2
+2026,2050,recapitulation,transition
+2110,2178,development,1st (phrase 2)
+2178,2260,development,1st
+2260,2320,development,retransition
+2320,2352,recapitulation,1st (phrase 1)
+2352,2435,recapitulation,1st (phrase 1)
+2432,2468,recapitulation,transition
+2470,2506,recapitulation,1st (phrase 2)
+2508,2588,recapitulation,2nd (phrase 1)
+2588,2672,recapitulation,2nd (phrase 2)
+2672,2757,recapitulation,codetta 1
+2758,2820,recapitulation,codetta 2
+2822,2858,recapitulation,transition
+2860,2906,coda,1st&2nd (double fugue)
+2906,2938,coda,1st&2nd (double fugue)
+2938,2970,coda,1st&2nd (double fugue)
+2970,3004,coda,1st&2nd (double fugue)
+3004,3029,coda,1st&2nd (double fugue)
+3029,3053,coda,coda
+3054,3114,coda,coda
