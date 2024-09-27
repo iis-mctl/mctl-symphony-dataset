@@ -43,7 +43,7 @@ Detailed note-level data for each instrument:
 | instrument       | Name of the instrument in the orchestra.                  |
 
 
-### **2. Temporal Attributes **
+### **2. Temporal Attributes**
 
 This section outlines the dataset's temporal components, crucial for understanding the composition's structure.
 
