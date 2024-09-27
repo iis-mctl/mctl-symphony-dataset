@@ -8,21 +8,24 @@ This section presents the hierarchical structure of the dataset, outlining the o
 <piece_name>
     ├── sheet.pdf
     ├── sheet.xml
+    ├── piece_name.mscz
     └── Annotations
-        ├── downbeat
-        │   └── downbeat.csv
+        ├── temporal_attributes
+        │   └── measure_num.txt
+        │   └── time_signature.csv
+        │   └── downbeat.csv       
         ├── form
         │   ├── harmony.csv
         │   ├── form_analysis.csv
         │   ├── cadence.csv
         │   └── form_annotation.pdf
         ├── layers
-        │   ├── all.csv
+        │   ├── layers.pdf
         │   └── <instrument>.csv
         ├── note
         │   └── <instrument>.csv
         └── note_played
-            └── note_played_all.csv
+            └── note_played.csv
 
 ```
 
