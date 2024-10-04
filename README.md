@@ -62,7 +62,7 @@ Lists onset times, measure numbers, and their corresponding time signatures, ind
 
 #### 2.3. Downbeat
 Identifies the first beat of each measure.
-              |
+              
 
 ### **3. Musical Form**
 
