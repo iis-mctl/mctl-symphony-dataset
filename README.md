@@ -46,10 +46,10 @@ Detailed note-level data for each instrument:
 
 This section outlines the dataset's temporal components.
 
-### Measure Number
+#### 2.1. Measure Number
 Calculated measure numbers for each piece.
 
-### Time Signature
+#### 2.2. Time Signature
 Lists onset times, measure numbers, and their corresponding time signatures, indicating where changes occur to reflect structural shifts.
 
 | Column           | Description                                               |
@@ -60,7 +60,7 @@ Lists onset times, measure numbers, and their corresponding time signatures, ind
 | time_signature_numerator  | Numerator of the time signature, specifying beats per measure.|
 | time_signature_denominator | Denominator of the time signature, indicating the note value for one beat.|
 
-### Downbeat
+#### 2.3. Downbeat
 Identifies the first beat of each measure.
               |
 
@@ -68,7 +68,7 @@ Identifies the first beat of each measure.
 
 Includes harmony, form analysis, cadences, and form annotations.
 
-### Harmony
+#### 3.1. Harmony
 Refer to [Harmony Details](https://github.com/kyuchia/mctl-symphony-dataset/tree/main/mctl_symphony_dataset#harmony-details) for detailed descriptions and examples.
 
 | Column       | Description                                      | 
@@ -77,13 +77,13 @@ Refer to [Harmony Details](https://github.com/kyuchia/mctl-symphony-dataset/tree
 | offset       | In crotchet beats                                | 
 | key          | Tonality <br> `R/r` for Major/minor <br> `+/-` for `sharp/flat` |
 | degree       | 1, 2, 3, 4, 5, 6, 7 <br> `+/-` before number for `sharp/flat` <br> `/` for secondary chord  |
-| quality      | M = major <br> m = minor <br> M7 = major 7th <br> m7 = minor 7th <br> D7 = dominant 7th <br> d/d7 = diminished <br> h7 = half diminished 7th <br> a = augmented chord <br> a6 = augmented 6th |
+| quality      | major triad (M) <br> minor triad (m) <br> diminished triad (d) <br> major 7th (M7) <br> minor 7th (m7) <br> dominant 7th (D7) <br> diminished 7th (d7) <br> half-diminished 7th (h7) <br> augmented (a) <br> augmented 6th (a6)|
 | inversion    | 0, 1, 2, 3                                       | 
 | roman number | Roman numeral notation                           | 
 
 
 
-### Cadence
+#### 3.2. Cadence
 
 | Column        | Description                                                                     |
 |---------------|---------------------------------------------------------------------------------|
@@ -92,7 +92,7 @@ Refer to [Harmony Details](https://github.com/kyuchia/mctl-symphony-dataset/tree
 | offset        | The offset (measured in beats) of each cadence.                                 |
 | cadence type  | AC (Authentic Cadence), HC (Half Cadence), PC (Plagal Cadence), DC (Deceptive Cadence). |
 
-### Form Analysis
+#### 3.3. Form Analysis
 
 | Column        | Description                                      |
 |---------------|--------------------------------------------------|
