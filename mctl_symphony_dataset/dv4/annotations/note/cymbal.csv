@@ -1,4 +1,4 @@
-onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure, instrument
+onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure,instrument
 254.0,256.0,0,unpitched,2.0,0,64,3.0,cymbal
 256.0,260.0,0,unpitched,4.0,0,65,1.0,cymbal
 260.0,261.0,0,unpitched,1.0,0,66,1.0,cymbal

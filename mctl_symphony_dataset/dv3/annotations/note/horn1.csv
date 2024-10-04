@@ -1,4 +1,4 @@
-onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure, instrument
+onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure,instrument
 0.5,1.0,64,E4,0.5,0,1,1.5,horn1
 1.0,6.0,64,E4,5.0,0,1,2.0,horn1
 6.5,7.0,59,B3,0.5,0,3,1.5,horn1

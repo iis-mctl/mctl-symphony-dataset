@@ -1,4 +1,4 @@
-onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure, instrument
+onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure,instrument
 0.0,1.0,52,E3,1.0,0,1,1.0,doublebass
 6.0,7.0,47,B2,1.0,0,3,1.0,doublebass
 12.0,12.5,52,E3,0.5,0,5,1.0,doublebass

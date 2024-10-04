@@ -1,4 +1,4 @@
-onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure, instrument
+onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure,instrument
 0.0,0.5,76,E5,0.5,0,1,1.0,clarinet2
 0.5,1.0,76,E5,0.5,0,1,1.5,clarinet2
 1.0,6.0,76,E5,5.0,0,1,2.0,clarinet2

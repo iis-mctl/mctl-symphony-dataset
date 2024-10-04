@@ -5,7 +5,7 @@ onset,offset,key,degree,quality,inversion,roman number
 22,23,e,5,M,0,V
 23,24,e,2,h7,0,ii=7
 24,25,e,5,M,0,V
-25,26,e,+6,d,1,+vi-6
+25,26,e,6,d,1,+vi-6
 26,27,e,5,M,0,V
 27,28,e,7,M,0,VII
 29,30,e,7,M,0,VII
@@ -216,11 +216,10 @@ onset,offset,key,degree,quality,inversion,roman number
 588,604,F,5,D7,3,V42
 604,608,F,7,d7,0,vii-7
 608,812,F,5,D7,0,V7
-812,620,F,1,M,0,I
 620,628,F,1,M,0,I
 628,636,F,1,a,0,I+
-636,652,F,+1,M,0,+I
-652,660,F,+1,a,0,+I+
+636,652,F,1,M,0,+I
+652,660,F,1,a,0,+I+
 660,700,g,1,M,0,I
 700,724,g,6,M,1,VI6
 724,732,g,6,m,1,vi6
@@ -234,6 +233,7 @@ onset,offset,key,degree,quality,inversion,roman number
 780,788,g,7/5,d7,2,vii-43/v
 788,804,g,1,m,2,i64
 804,816,g,1,m,2,i64
+812,620,F,1,M,0,I
 816,824,g,3,M,1,III6
 824,828,g,5/5/6,D7,0,V7/V/vi
 828,836,g,6,m,3,vi42
@@ -275,7 +275,7 @@ onset,offset,key,degree,quality,inversion,roman number
 1036,1040,E,4,m,2,iv64
 1040,1044,E,1,M,0,I
 1044,1048,E,4,m,2,iv64
-1048,1052,E,+4,d7,2,+iv-64
+1048,1052,E,4,d7,2,+iv-64
 1052,1056,E,4,m,2,iv64
 1056,1060,E,4,m,2,+iv64
 1060,1064,E,7,h7,0,vii=7
@@ -330,7 +330,7 @@ onset,offset,key,degree,quality,inversion,roman number
 1192,1196,e,1,m,0,i
 1196,1200,e,-5,M,0,-V
 1200,1204,e,1,m,0,i
-1204,1208,e,+6,m,0,+vi
+1204,1208,e,6,m,0,+vi
 1208,1212,e,4,m,0,iv
 1212,1216,e,-2,M,0,-II
 1216,1304,e,1,m,0,i

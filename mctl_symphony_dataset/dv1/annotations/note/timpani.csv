@@ -1,4 +1,4 @@
-onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure, instrument
+onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure,instrument
 18.125,18.1875,45,A2,0.0625,0,10,1.25,timpani
 18.1875,18.25,45,A2,0.0625,0,10,1.375,timpani
 18.25,18.375,45,A2,0.125,0,10,1.5,timpani

@@ -1,0 +1,14 @@
+onset,offset,role
+276,292,rthythm
+292,300,harm
+541,551,rthythm
+565,575,rthythm
+589,660,rthythm
+664,668,harm
+680,684,rthythm
+696,703,rthythm
+779,812,rthythm
+999,1008,rhythm+harm
+1004,1016,rthythm
+1089,1364,rthythm
+1424,1440,rthythm

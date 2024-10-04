@@ -1,4 +1,4 @@
-onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure, instrument
+onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure,instrument
 36.0,36.125,68,G#4,0.125,0,19,1.0,trumpet2
 37.0,37.125,68,G#4,0.125,0,19,3.0,trumpet2
 38.0,38.125,69,B--4,0.125,0,20,1.0,trumpet2

@@ -1,32 +1,33 @@
-instrument_name,n_note_played
-I,1172
-II,1122
-Piccolo,778
-2 Oboes,1467
-I,1496
-II,1376
-2 Bassoons,2125
-I &amp; II,1437
-III &amp; IV,1283
-2 Trumpets  in A,1092
-Alto &amp; Tenor,799
-Bass,483
-Tuba,359
-Timpani,297
-Bass Drum,0
-Cymbal,0
-Violins I divisi,613
-Violins,625
-Violins II divisi,582
-Violins,564
-Violas divisi,622
-Violas,634
-Violoncellos divisi,419
-Violoncellos,373
-Contrabasses divisi,135
-Contrabasses,137
-Violin I,1318
-Violin II,1316
-Viola,1535
-Violoncello,1462
-Contrabass,924
+,instrument_name,n_note_played
+26,bassdrum,38
+14,bassoon1,1239
+11,bassoon2,1145
+6,basstrombone,480
+9,clarinet1,1496
+5,clarinet2,1376
+7,cymbal,8
+18,doublebass1,1050
+22,doublebass2,1026
+0,flute1,1174
+2,flute2,1123
+10,horn1,703
+12,horn2,743
+15,horn3,650
+17,horn4,652
+3,oboe1,856
+1,oboe2,795
+16,piccolo,778
+19,timpani,295
+21,trombone1,462
+24,trombone2,440
+27,trumpet1,592
+25,trumpet2,582
+13,tuba,356
+30,viola1,2164
+31,viola2,2176
+28,violin1-1,1931
+29,violin1-2,1943
+20,violin2-1,1905
+23,violin2-2,1887
+4,violoncello1,1859
+8,violoncello2,1813

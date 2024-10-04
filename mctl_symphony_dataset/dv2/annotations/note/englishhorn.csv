@@ -1,4 +1,4 @@
-onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure, instrument
+onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure,instrument
 24.0,24.75,65,F4,0.75,0,7,1.0,englishhorn
 24.75,25.0,68,A-4,0.25,0,7,1.75,englishhorn
 25.0,26.0,68,A-4,1.0,0,7,2.0,englishhorn

@@ -1,0 +1,12 @@
+phrase onset,phrase offset,section,part
+0,23,introduction,
+24,71,A,a
+72,103,A,transition
+104,155,A,b
+156,179,A,coddetta
+180,211,B,a
+212,251,B,b
+252,355,B,a'
+356,399,B,c
+400,467,A,a
+468,508,coda,

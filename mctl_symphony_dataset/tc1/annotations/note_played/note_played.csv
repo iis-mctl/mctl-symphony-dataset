@@ -1,22 +1,30 @@
-instrument_name,n_note_played
-Flauto piccolo,281
-Flauti1,1210
-Flauti2,338
-Oboi,1125
-Clarinetti in A,1890
-Fagotti,1219
-Corni in F I II,1183
-Corni in F III IV,1145
-Trombe in B,541
-Tromboni Alto e Tenore,464
-Trombone basso,315
-Tuba,209
-"Timpani in A, E, Es",199
-Violino I,1891
-Violino II,1682
-Viola1,1948
-Viola2,104
-Violoncello1,1726
-Violoncello2,84
-Basso1,1124
-Basso2,48
+,instrument_name,n_note_played
+16,bassoon1,818
+13,bassoon2,401
+8,basstrombone,315
+11,clarinet1,1223
+7,clarinet2,667
+20,doublebass1,1126
+23,doublebass2,1131
+0,flute1,1065
+2,flute2,383
+4,flute3,106
+12,horn1,591
+14,horn2,553
+17,horn3,601
+19,horn4,545
+3,oboe1,690
+1,oboe2,437
+18,piccolo,281
+21,timpani,190
+22,trombone1,303
+24,trombone2,162
+26,trumpet1,302
+25,trumpet2,241
+15,tuba,209
+27,viola1,1948
+28,viola2,1887
+6,violin1,1891
+10,violin2,1682
+5,violoncello1,1725
+9,violoncello2,1675

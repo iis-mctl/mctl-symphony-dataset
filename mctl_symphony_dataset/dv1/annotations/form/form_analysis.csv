@@ -1,0 +1,20 @@
+phrase onset,phrase offset,section,theme
+0,17,Introduction,a
+18,45,Introduction,b
+46,116,exposition,1
+116,179,exposition,1
+179,296,exposition,1
+296,340,exposition,2
+340,352,exposition,2
+353,359,Introduction,
+360,430,exposition,1
+430,502,exposition,1
+494,610,exposition,1
+610,654,exposition,2
+654,666,exposition,2
+667,794,development,
+794,858,development,
+858,936,recapitulation,1
+936,1052,recapitulation,1
+1052,1096,recapitulation,2
+1096,1209,coda,

@@ -1,4 +1,4 @@
-onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure, instrument
+onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure,instrument
 10.0,10.5,79,G5,0.5,0,6,1.0,oboe1
 10.5,11.0,78,F#5,0.5,0,6,2.0,oboe1
 11.0,11.5,76,E5,0.5,0,6,3.0,oboe1

@@ -1,4 +1,4 @@
-onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure, instrument
+onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure,instrument
 0.0,3.0,0,unpitched,3.0,0,1,1.0,triangle
 3.0,6.0,0,unpitched,3.0,0,2,1.0,triangle
 6.0,9.0,0,unpitched,3.0,0,3,1.0,triangle

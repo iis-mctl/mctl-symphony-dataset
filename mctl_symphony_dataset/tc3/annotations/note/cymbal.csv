@@ -1,0 +1,9 @@
+onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure,instrument
+949.0,952.0,0,unpitched,3.0,0,238,2.0,cymbal
+952.0,952.5,0,unpitched,0.5,0,239,1.0,cymbal
+1127.0,1127.5,0,unpitched,0.5,0,282,4.0,cymbal
+1165.0,1168.0,0,unpitched,3.0,0,292,2.0,cymbal
+1168.0,1168.5,0,unpitched,0.5,0,293,1.0,cymbal
+1259.0,1260.0,0,unpitched,1.0,0,315,4.0,cymbal
+1260.0,1264.0,0,unpitched,4.0,0,316,1.0,cymbal
+1264.0,1264.5,0,unpitched,0.5,0,317,1.0,cymbal

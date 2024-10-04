@@ -1,7 +1,6 @@
 onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure,instrument
-0.0,3.0,0,Unpitched,3.0,0,1,1.0,Tamtam (ad lib.)
-408.0,411.0,0,Unpitched,3.0,0,137,1.0,Tamtam (ad lib.)
-411.0,414.0,0,Unpitched,3.0,0,138,1.0,Tamtam (ad lib.)
-414.0,417.0,0,Unpitched,3.0,0,139,1.0,Tamtam (ad lib.)
-417.0,420.0,0,Unpitched,3.0,0,140,1.0,Tamtam (ad lib.)
-420.0,420.5,0,Unpitched,0.5,0,141,1.0,Tamtam (ad lib.)
+408.0,411.0,0,unpitched,3.0,0,137,1.0,tamtam
+411.0,414.0,0,unpitched,3.0,0,138,1.0,tamtam
+414.0,417.0,0,unpitched,3.0,0,139,1.0,tamtam
+417.0,420.0,0,unpitched,3.0,0,140,1.0,tamtam
+420.0,420.5,0,unpitched,0.5,0,141,1.0,tamtam

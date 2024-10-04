@@ -1,4 +1,4 @@
-onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure, instrument
+onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure,instrument
 17.625,17.875,62,D4,0.25,0,9,4.25,violin2
 17.875,18.0,63,E-4,0.125,0,9,4.75,violin2
 18.0,18.125,57,A3,0.125,0,10,1.0,violin2

@@ -1,4 +1,4 @@
-onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure, instrument
+onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure,instrument
 0.0,1.5,35,B1,1.5,0,1,1.0,doublebass
 1.5,2.0,36,C2,0.5,0,1,2.5,doublebass
 4.0,5.5,35,B1,1.5,0,2,1.0,doublebass
@@ -153,8 +153,8 @@ onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure, inst
 192.0,192.5,35,B1,0.5,0,49,1.0,doublebass
 193.0,193.5,35,B1,0.5,0,49,2.0,doublebass
 194.0,194.5,40,E2,0.5,0,49,3.0,doublebass
-195.0,195.33333333333331,40,E2,0.3333333333333333,0,49,4.0,doublebass
-195.33333333333331,195.66666666666669,43,G2,0.3333333333333333,0,49,4.333333333333333,doublebass
+195.0,195.3333333333333,40,E2,0.3333333333333333,0,49,4.0,doublebass
+195.3333333333333,195.66666666666669,43,G2,0.3333333333333333,0,49,4.333333333333333,doublebass
 195.66666666666663,196.0,45,A2,0.3333333333333333,0,49,4.666666666666667,doublebass
 196.0,196.5,47,B2,0.5,0,50,1.0,doublebass
 197.0,197.5,35,B1,0.5,0,50,2.0,doublebass

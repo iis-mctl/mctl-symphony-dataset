@@ -251,9 +251,9 @@ onset,offset,key,degree,quality,inversion,roman number
 600,624,e,4,M7,1,VI^65
 624,636,e,1,m,0,i
 636,654,e,1,m,0,i
-654,657,e,+3,m,0,+iii
-657,672,e,+3,M,0,+III
-672,684,e,+3,M,0,+III
+654,657,e,3,m,0,+iii
+657,672,e,3,M,0,+III
+672,684,e,3,M,0,+III
 684,690,e,3,a,2,III+64
 690,702,e,6,M,1,VI6
 702,717,C,1,M,0,I

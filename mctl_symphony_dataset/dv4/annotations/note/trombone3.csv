@@ -1,4 +1,4 @@
-onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure, instrument
+onset,offset,midi_number,pitch_name,duration,staff,measure,beat_in_measure,instrument
 29.0,30.0,51,E-3,1.0,0,8,2.0,trombone3
 30.0,31.0,49,D-3,1.0,0,8,3.0,trombone3
 31.0,32.0,49,D-3,1.0,0,8,4.0,trombone3
