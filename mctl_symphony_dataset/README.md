@@ -8,7 +8,6 @@ This section presents the hierarchical structure of the dataset, outlining the o
 <piece_name>
     ├── sheet.pdf
     ├── sheet.xml
-    ├── piece_name.mscz
     └── Annotations
         ├── temporal_attributes
         │   └── measure_num.txt
