@@ -1,7 +1,6 @@
 # S3: A symbolic music dataset for computational music analysis of symphonies
 
-Symbolic Symphony Set (S3) consists of symbolic musical data and structural annotations of classical and romantic symphonies. We aim to provide a note-level analysis of the orchestral context, identifying the intricate relationships between various instrument layers and musical forms.
-We compile over 13,000 annotations in four symphonies by Mozart, Beethoven, Tchaikovsky, and Dvorak, extensively organizing harmony, musical structure, and orchestral layers. Our dataset can be utilized for orchestral texture classification, advancing music modeling and generation, and offering new insights into compositional studies and analysis.
+Symbolic Symphony Set (S3), a high-quality, cross-period dataset comprising four symphonies, 16 movements by Mozart, Beethoven, Dvoˇrák, and Tchaikovsky, containing information on temporal attributes, note events, musical form, and orchestral texture. The dataset includes 285,387 notes, 532 phrases, and 7,290 chords. We consider the following bar-wise (attributes shared across all instrument tracks) and track-wise(specific for each individual instrument track) annotations of classical and romantic symphonies. Our dataset can be utilized for orchestral texture classification, advancing music modeling and generation, and offering new insights into compositional studies and analysis.
 
 
 ## **Overview**
