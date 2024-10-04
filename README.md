@@ -7,10 +7,9 @@ Symbolic Symphony Set (S3), a high-quality, cross-period dataset comprising four
 
 - Digital scores: musicXML, PDF files in `<piece_name>`
 - Annotations: .csv files in `<piece_name>/Annotations`
-- Each piece contains annotations in five categories:
+- Each piece contains annotations in four categories:
     - Note Events
     - Temporal Attributes
-    - Note Played
     - Musical Form
     - Orchestral Layers
 
@@ -63,17 +62,9 @@ Lists onset times, measure numbers, and their corresponding time signatures, ind
 
 ### Downbeat
 Identifies the first beat of each measure.
+              |
 
-### **3. Note Played**
-
-The columns represent the amount of notes played by each instrument in one movement.
-
-| Column         | Description                                                |
-|----------------|------------------------------------------------------------|
-| n note played  | The number of notes played by each instrument in one movement. |
-| instrument     | Name of the instrument in the orchestra.                   |
-
-### **4. Musical Form**
+### **3. Musical Form**
 
 Includes harmony, form analysis, cadences, and form annotations.
 
@@ -111,7 +102,7 @@ Refer to [Harmony Details](https://github.com/kyuchia/mctl-symphony-dataset/tree
 | section       | A major part of a piece, consisting of multiple themes.|
 
 
-### **5. Orchestral Layers**
+### **4. Orchestral Layers**
 
 Layer information for all instruments in symphonies.
 
@@ -130,3 +121,14 @@ Layer information for all instruments in symphonies.
 | **Rhythmic accompaniment** | `rhythm`            |
 | **Harmonic accompaniment** | `harm`              |
 | **Mixed**                | `rhythm + harm`, `rhythm + mel`, `mel + harm`, `mel + rhythm + harm`|
+
+
+## **Supplementary Material**
+### **Note Played**
+
+The columns represent the amount of notes played by each instrument in one movement.
+
+| Column         | Description                                                |
+|----------------|------------------------------------------------------------|
+| n note played  | The number of notes played by each instrument in one movement. |
+| instrument     | Name of the instrument in the orchestra.                   |
