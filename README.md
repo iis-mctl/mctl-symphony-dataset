@@ -1,7 +1,8 @@
-# MCTL Symphony Dataset
+# S3: A symbolic music dataset for computational music analysis of symphonies
 
-The MCTL Symphony Dataset consists of symbolic musical data and structural annotations of classical and romantic symphonies. We aim to provide a note-level analysis of the orchestral context, identifying the intricate relationships between various instrument layers and musical forms.
+Symbolic Symphony Set (S3) consists of symbolic musical data and structural annotations of classical and romantic symphonies. We aim to provide a note-level analysis of the orchestral context, identifying the intricate relationships between various instrument layers and musical forms.
 We compile over 13,000 annotations in four symphonies by Mozart, Beethoven, Tchaikovsky, and Dvorak, extensively organizing harmony, musical structure, and orchestral layers. Our dataset can be utilized for orchestral texture classification, advancing music modeling and generation, and offering new insights into compositional studies and analysis.
+
 
 ## **Overview**
 
