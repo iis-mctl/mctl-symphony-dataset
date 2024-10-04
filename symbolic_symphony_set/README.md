@@ -38,7 +38,7 @@ This section presents the hierarchical structure of the dataset, outlining the o
 | offset       | In crotchet beats                                | 16          | 168.5      |
 | key          | Tonality <br> `R/r` for Major/minor <br> `+/-` for sharp/flat | e           | B          |
 | degree       | 1, 2, 3, 4, 5, 6, 7 <br> `+/-` before number for sharp/flat <br> `/` for secondary chord  | 7/5         | 5/3        |
-| quality      | M = major <br> m = minor <br> M7 = major 7th <br> m7 = minor 7th <br> D7 = dominant 7th <br> d /d7 = diminished <br> h7 = half diminished 7th <br> a = augmented chord <br> a6 = augmented 6th | d7 | M |
+| quality      | major triad (M) <br> minor triad (m) <br> diminished triad (d) <br> major 7th (M7) <br> minor 7th (m7) <br> dominant 7th (D7) <br> diminished 7th (d7) <br> half-diminished 7th (h7) <br> augmented (a) <br> augmented 6th (a6) | d7 | M |
 | inversion    | 0, 1, 2, 3                                       | 1           | 0          |
 | roman number | Roman numeral notation                           | vii-65/V    | V/III      |
 
