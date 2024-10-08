@@ -3,9 +3,9 @@ onset,offset,role
 150,154.0,mel
 156,160.0,harm
 161,174.0,rhythm
-174,186.0,rthythm+harm
+174,186.0,rhythm+harm
 186,210.0,harm
-210,226.0,rthythm+harm
+210,226.0,rhythm+harm
 228,229.0,harm
 230,235.0,rhythm
 240,241.0,harm

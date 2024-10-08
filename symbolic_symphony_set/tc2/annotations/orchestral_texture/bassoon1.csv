@@ -3,7 +3,7 @@ onset,offset,role
 60,80,harm
 80,116,harm
 140,160,harm
-160,240,harm+rhythm
+160,240,rhythm+harm
 240,260,mel
 260,270,mel+rhythm
 270,283,mel
@@ -19,7 +19,7 @@ onset,offset,role
 565,635,mel
 635,675,harm
 695,715,harm
-715,795,harm+rhythm
+715,795,rhythm+harm
 795,815,mel
 815,825,mel+rhythm
 825,838,mel

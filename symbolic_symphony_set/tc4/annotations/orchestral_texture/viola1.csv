@@ -1,6 +1,6 @@
 onset,offset,role
 0,12.0,harm
-12,23.0,rthythm+harm
+12,23.0,rhythm+harm
 24,69.0,harm
 69,86.5,rhythm+harm
 113,210.0,mel
@@ -10,7 +10,7 @@ onset,offset,role
 273,279.0,harm
 279,291.0,mel+rhythm
 291,306.0,harm
-306,321.0,rthythm+harm
+306,321.0,rhythm+harm
 321,337.0,mel
 337,343.0,harm
 343,376.0,mel
