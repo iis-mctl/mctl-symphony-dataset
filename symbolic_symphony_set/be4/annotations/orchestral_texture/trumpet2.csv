@@ -43,7 +43,7 @@ onset,offset,role
 3156,3190,rhythm
 3240,3274,rhythm
 3349,3356,rhythm
-3356,3996,rhythm
+3356,3396,rhythm
 3428,3464,rhythm
 3484,3536,rhythm+harm
 3536,3544,harm
@@ -61,4 +61,3 @@ onset,offset,role
 3660,3692,rhythm+harm
 3692,3700,harm
 3700,3710,rhythm+harm
-3996,3428,harm
