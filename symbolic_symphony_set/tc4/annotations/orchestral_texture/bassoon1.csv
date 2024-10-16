@@ -8,8 +8,8 @@ onset,offset,role
 113,138.0,harm
 138,161.0,rhythm
 173,183.0,harm
-183,210.0,rthythm+harm
-210,226.0,rthythm+harm
+183,210.0,rhythm+harm
+210,226.0,rhythm+harm
 228,229.0,harm
 230,235.0,rhythm
 238,243.0,mel

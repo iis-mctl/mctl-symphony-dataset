@@ -16,12 +16,12 @@ onset,offset,role
 843,858,mel+harm
 858,876,rhythm+harm
 974,992,harm
-992,999,rthythm
+992,999,rhythm
 999,1002,rhythm+harm
 1003,1006,mel+harm
 1007,1014,rhythm+harm
 1060,1067,harm
-1067,1089,rthythm
+1067,1089,rhythm
 1090,1117,mel+harm
 1152,1208,rhythm+harm
 1264,1290,rhythm+harm
