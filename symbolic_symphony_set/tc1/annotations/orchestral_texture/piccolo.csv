@@ -1,5 +1,5 @@
 onset,offset,role
 188,191,mel
 260,300,mel+harm
-991,1086,mel+harm
-1086,1096,rhythm
+965,1060,mel+harm
+1060,1070,rhythm
