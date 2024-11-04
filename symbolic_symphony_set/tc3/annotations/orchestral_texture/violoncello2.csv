@@ -32,7 +32,8 @@ onset,offset,role
 446,473,rhythm
 474,477,harm
 477,484,rhythm
-484,488,harm
+484,489,harm
+489,512,rhythm
 512,520,harm
 520,527,mel+rhythm
 526,532,rhythm
@@ -47,7 +48,7 @@ onset,offset,role
 690,692,harm
 710,721,rhythm
 726,728,harm
-728,737,harm
+728,740,rhythm
 740,744,mel
 744,753,rhythm
 756,760,mel

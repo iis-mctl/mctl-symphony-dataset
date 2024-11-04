@@ -2,9 +2,11 @@ onset,offset,role
 160,240,rhythm
 240,269,mel+rhythm
 272,273,harm
+712,732,rhythm
 732,881,rhythm
 912,984,rhythm
-1097,1200,rhythm
+1094,1200,rhythm
+1244,1252,rhythm
 1260,1292,mel+rhythm
 1312,1357,rhythm
 1358,1388,mel

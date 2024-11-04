@@ -1,12 +1,11 @@
 onset,offset,role
 112,121,rhythm+harm
-131,137,harm
-196,201,mel
+179,189,harm
 214,217,mel+rhythm
 222,240,mel+rhythm
 240,273,harm
 280,296,rhythm+harm
-303,320,harm
+301,320,harm
 320,344,rhythm+harm
 344,352,harm
 352,360,rhythm
@@ -35,7 +34,7 @@ onset,offset,role
 968,1001,harm
 1001,1016,rhythm+harm
 1016,1022,harm
-1024,1032,rhythm
+1022,1032,rhythm
 1032,1038,harm
 1048,1054,harm
 1054,1064,rhythm
