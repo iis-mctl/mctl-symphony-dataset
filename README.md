@@ -1,6 +1,11 @@
 # S3: A symbolic music dataset for computational music analysis of symphonies
 
-Symbolic Symphony Set (S3), a high-quality, cross-period dataset comprising four symphonies, 16 movements by Mozart, Beethoven, Dvoˇrák, and Tchaikovsky, containing information on temporal attributes, note events, musical form, and orchestral texture. The dataset includes 285,387 notes, 532 phrases, and 7,290 chords. We consider the following bar-wise (attributes shared across all instrument tracks) and track-wise(specific for each individual instrument track) annotations of classical and romantic symphonies. Our dataset can be utilized for orchestral texture classification, advancing music modeling and generation, and offering new insights into compositional studies and analysis.
+Symbolic Symphony Set (S3), a high-quality, cross-period dataset comprising four symphonies, 16 movements by Mozart, Beethoven, Dvoˇrák, and Tchaikovsky, containing information on temporal attributes, note events, musical form, and orchestral texture. 
+
+The dataset includes 285,387 notes, 532 phrases, and 7,290 chords. We consider the following bar-wise (attributes shared across all instrument tracks) and track-wise(specific for each individual instrument track) annotations of classical and romantic symphonies. Our dataset can be utilized for orchestral texture classification, advancing music modeling and generation, and offering new insights into compositional studies and analysis.
+
+More information can be found here: 
+[ Z.-S. Lin*, Y.-C. Kuo*, T.-Y. Hung, W.-Y. Lin, Y.-H. Chu, T.-K. Wang, J.-H. Huang, C. Chang, C. Julio, G. Hsieh, and L. Su (2024), “S3: A Symbolic Music Dataset for Computational Music Analysis of Symphonies”, in Extended Abstracts for the Late Breaking Demo Session of the 25th Int. Society for Music Information Retrieval Conf., 14th November 2024, San Francisco, United States.][https://ismir2024program.ismir.net/lbd_463.html]
 
 
 ## **Overview**
@@ -132,3 +137,4 @@ The columns represent the amount of notes played by each instrument in one movem
 |----------------|------------------------------------------------------------|
 | n note played  | The number of notes played by each instrument in one movement. |
 | instrument     | Name of the instrument in the orchestra.                   |
+
